@@ -1,13 +1,315 @@
 {
   "username": "pablocamarillo",
-  "source": "https://github.com/users/pablocamarillo/contributions?from=2026-01-01&to=2026-11-01",
+  "source": "https://github.com/users/pablocamarillo/contributions",
   "source_type": "GitHub anonymous contribution calendar HTML",
-  "scope": "Contributions visible on the public profile; not a skill or productivity score.",
-  "as_of": "2026-11-01",
-  "from": "2026-01-01",
-  "to": "2026-11-01",
-  "total": 28,
+  "scope": "Contributions visible on the public GitHub profile. Counts and intensity levels are supplied by GitHub.",
+  "as_of": "2026-11-06",
+  "fetched_at": "2026-11-06T03:45:49.015Z",
+  "source_sha256": "b160dc9b37b04f62bbe70db85ba4d9ac4fc94e6b09acbeef36522e368e960846",
+  "from": "2025-11-02",
+  "to": "2026-11-06",
+  "total": 33,
   "days": [
+    {
+      "date": "2025-11-02",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-11-03",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-11-04",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-11-05",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-11-06",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-11-07",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-11-08",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-11-09",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-11-10",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-11-11",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-11-12",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-11-13",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-11-14",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-11-15",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-11-16",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-11-17",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-11-18",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-11-19",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-11-20",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-11-21",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-11-22",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-11-23",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-11-24",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-11-25",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-11-26",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-11-27",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-11-28",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-11-29",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-11-30",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-12-01",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-12-02",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-12-03",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-12-04",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-12-05",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-12-06",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-12-07",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-12-08",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-12-09",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-12-10",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-12-11",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-12-12",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-12-13",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-12-14",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-12-15",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-12-16",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-12-17",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-12-18",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-12-19",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-12-20",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-12-21",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-12-22",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-12-23",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-12-24",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-12-25",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-12-26",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-12-27",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-12-28",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-12-29",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-12-30",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2025-12-31",
+      "count": 0,
+      "level": 0
+    },
     {
       "date": "2026-01-01",
       "count": 0,
@@ -1485,8 +1787,8 @@
     },
     {
       "date": "2026-10-23",
-      "count": 0,
-      "level": 0
+      "count": 2,
+      "level": 2
     },
     {
       "date": "2026-10-24",
@@ -1530,8 +1832,33 @@
     },
     {
       "date": "2026-11-01",
-      "count": 1,
-      "level": 1
+      "count": 4,
+      "level": 3
+    },
+    {
+      "date": "2026-11-02",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2026-11-03",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2026-11-04",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2026-11-05",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2026-11-06",
+      "count": 0,
+      "level": 0
     }
   ]
 }
