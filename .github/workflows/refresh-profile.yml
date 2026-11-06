@@ -37,17 +37,29 @@ jobs:
       - run: node --test
       - name: Fetch actual public contribution counts and levels
         run: node scripts/contributions.mjs
-      - name: Refresh original team repository metadata
-        run: node scripts/featured-project.mjs
+      - name: Sync public profile pins
+        id: pins
+        continue-on-error: true
+        env:
+          PINNED_READ_TOKEN: ${{ secrets.PINNED_READ_TOKEN }}
+        run: node scripts/pinned-repositories.mjs
       - name: Validate refreshed snapshot
         run: node --test
-      - name: Commit only generated profile assets
+      - name: Commit generated profile updates
         id: snapshot
         shell: bash
+        env:
+          PINS_SYNCED: ${{ steps.pins.outcome == 'success' }}
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/contributions.json data/featured-project.json assets/contributions.svg assets/contributions-mobile.svg assets/hackathon-card.svg assets/hackathon-card-mobile.svg
+          git add -- data/contributions.json assets/contributions.svg assets/contributions-mobile.svg
+          if [ "$PINS_SYNCED" = true ]; then
+            node scripts/pinned-repositories.mjs --check
+            git add -A -- README.md README_STATIC.md data/pinned-repositories.json assets/pins/
+          else
+            echo "::warning::Pin sync failed; keeping the last committed pins while refreshing contributions."
+          fi
           if ! git diff --cached --quiet; then
             git commit -m "chore: refresh verified profile snapshots"
             git push origin HEAD:main

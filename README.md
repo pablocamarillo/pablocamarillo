@@ -1,26 +1,29 @@
 ![Pablo Camarillo — Data Analytics, Applied AI and Intelligent Systems. University of Wisconsin–Milwaukee student.](assets/living-code-v2.gif)
 
-## Featured collaboration
+# A signature built through deliberate practice
 
-<a href="https://github.com/ALL-Applied-AI-Network/msoe-ai-club-rockwell-automation-nvidia-hackath-new-team-1-10439770d3">
-  <picture>
-    <source media="(max-width: 600px)" srcset="assets/hackathon-card-mobile.svg">
-    <img src="assets/hackathon-card.svg" alt="Adaptive Workcell Reconfiguration — a collaborative Rockwell Automation + NVIDIA Hackathon project by The A-Team. Python, NVIDIA Isaac Sim, OpenCV, MediaPipe and Three.js. Open the original team repository." width="1200">
-  </picture>
-</a>
+`~/portfolio $ whoami`
 
-**[Adaptive Workcell Reconfiguration](https://github.com/ALL-Applied-AI-Network/msoe-ai-club-rockwell-automation-nvidia-hackath-new-team-1-10439770d3)** — a collaborative Physical AI prototype connecting human demonstrations, digital-twin validation, and supervised FANUC robot actions. Built with **The A-Team** for the **MSOE AI Club Rockwell Automation + NVIDIA Hackathon**; I contributed as one of five team members.
+I’m **Pablo Camarillo**, pursuing a **B.S. in Data Analytics & Applied AI at the University of Wisconsin–Milwaukee**. I’m building practical skills through Python analysis, hands-on SQL learning, and work others can inspect.
 
-**Technologies:** Python · NVIDIA Isaac Sim · OpenCV · MediaPipe · Three.js. Repository stars and primary language are refreshed with the card; its snapshot date appears above.
+**Seeking data analytics and data science internships, with a growing interest in AI engineering.**
 
-<details>
-<summary>Original repository &amp; team credits</summary>
+[Prefer a still page? Read the static version.](README_STATIC.md)
 
-[ALL-Applied-AI-Network / msoe-ai-club-rockwell-automation-nvidia-hackath-new-team-1-10439770d3](https://github.com/ALL-Applied-AI-Network/msoe-ai-club-rockwell-automation-nvidia-hackath-new-team-1-10439770d3)
+<!-- pinned-repositories:start -->
 
-The A-Team: Abdallah Benelmadjat (team lead), Pablo Camarillo, Benjamin Hess, Tar Meh, and Nathan Baker. [Project credits](https://github.com/ALL-Applied-AI-Network/msoe-ai-club-rockwell-automation-nvidia-hackath-new-team-1-10439770d3/blob/main/docs/credits.md).
+## Pinned repositories
 
-</details>
+<div>
+  <a href="https://github.com/ALL-Applied-AI-Network/msoe-ai-club-rockwell-automation-nvidia-hackath-new-team-1-10439770d3"><img src="assets/pins/1411010025.svg" alt="ALL-Applied-AI-Network/msoe-ai-club-rockwell-automation-nvidia-hackath-new-team-1-10439770d3 · Adaptive robot workcell prototype by a Rockwell Automation + NVIDIA Hackathon team. · Python · 0 stars · 0 forks" width="352"></a>
+  <a href="https://github.com/pablocamarillo/membership-engagement-sql-analysis"><img src="assets/pins/1441352665.svg" alt="pablocamarillo/membership-engagement-sql-analysis · SQL portfolio project analyzing membership engagement, gym utilization, and estimated subscription revenue using MySQL and synthetic gym activity data. · 0 stars · 0 forks" width="352"></a>
+</div>
+
+<div>
+  <a href="https://github.com/pablocamarillo/milwaukee-property-sales-analysis"><img src="assets/pins/1301005974.svg" alt="pablocamarillo/milwaukee-property-sales-analysis · An analysis of Milwaukee residential property sales, prices, and market trends. · Python · 0 stars · 0 forks" width="352"></a>
+</div>
+
+<!-- pinned-repositories:end -->
 
 ## GitHub contribution activity
 
@@ -36,16 +39,6 @@ My **publicly visible GitHub contribution calendar**, using GitHub’s actual da
 This is activity context, not a proficiency or productivity score; GitHub’s native graph remains the authoritative view.
 
 [Live GitHub profile](https://github.com/pablocamarillo?tab=overview) · [Daily snapshot data](data/contributions.json) · [Frozen fallback snapshot](assets/contributions-fallback.svg)
-
-# A signature built through deliberate practice
-
-`~/portfolio $ whoami`
-
-I’m **Pablo Camarillo**, pursuing a **B.S. in Data Analytics & Applied AI at the University of Wisconsin–Milwaukee**. I’m building practical skills through Python analysis, hands-on SQL learning, and work others can inspect.
-
-**Seeking data analytics and data science internships, with a growing interest in AI engineering.**
-
-[Prefer a still page? Read the static version.](README_STATIC.md)
 
 ![Tools in practice: Python, SQL, Pandas, Matplotlib, Excel and Git.](assets/technology-stack.svg)
 

@@ -1,0 +1,32 @@
+{
+  "source": "profile + REST",
+  "repositories": [
+    {
+      "id": 1411010025,
+      "name": "ALL-Applied-AI-Network/msoe-ai-club-rockwell-automation-nvidia-hackath-new-team-1-10439770d3",
+      "url": "https://github.com/ALL-Applied-AI-Network/msoe-ai-club-rockwell-automation-nvidia-hackath-new-team-1-10439770d3",
+      "description": "ALL AI project event 059658c9-e73f-48de-8ef8-a0482625f5e1; team be1eb922-3e3a-455e-8321-3c9e608e7be3.",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "id": 1441352665,
+      "name": "pablocamarillo/membership-engagement-sql-analysis",
+      "url": "https://github.com/pablocamarillo/membership-engagement-sql-analysis",
+      "description": "SQL portfolio project analyzing membership engagement, gym utilization, and estimated subscription revenue using MySQL and synthetic gym activity data.",
+      "language": null,
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "id": 1301005974,
+      "name": "pablocamarillo/milwaukee-property-sales-analysis",
+      "url": "https://github.com/pablocamarillo/milwaukee-property-sales-analysis",
+      "description": "An analysis of Milwaukee residential property sales, prices, and market trends.",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0
+    }
+  ]
+}

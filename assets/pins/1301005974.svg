@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="352" height="100" viewBox="0 0 352 100">
+  <title>pablocamarillo/milwaukee-property-sales-analysis · An analysis of Milwaukee residential property sales, prices, and market trends. · Python · 0 stars · 0 forks</title>
+  <rect x="1" y="4" width="350" height="92" rx="6" fill="#0b0c0d" stroke="#49402d"/>
+  <g font-family="Arial, sans-serif">
+<path transform="translate(14 14)" d="M3 1.5h10v11H8m-5 0V1.5m0 11a1.5 1.5 0 0 1 1.5-1.5H13m-8 4v-4m0 4 1.5-1L8 15v-4" fill="none" stroke="#bcb5a7" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="36" y="27" font-size="14" fill="#d9b974" font-weight="700">milwaukee-property-sales-analysis</text>
+<rect x="296" y="14" width="42" height="18" rx="9" fill="none" stroke="#49402d"/>
+<text x="302" y="27" font-size="11" fill="#bcb5a7">Public</text>
+<text x="15" y="48" font-size="13" fill="#bcb5a7">An analysis of Milwaukee residential property</text>
+<text x="15" y="64" font-size="13" fill="#bcb5a7">sales, prices, and market trends.</text>
+<circle cx="20" cy="80" r="5" fill="#c5a15a"/>
+<text x="30" y="84" font-size="12" fill="#bcb5a7">Python</text>
+<path transform="translate(83 72)" d="m8 1.4 2 4 4.4.6-3.2 3.1.8 4.4L8 11.4l-4 2.1.8-4.4L1.6 6l4.4-.6L8 1.4Z" fill="none" stroke="#bcb5a7" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="103" y="84" font-size="12" fill="#bcb5a7">0</text>
+<path transform="translate(123 72)" d="M4.5 6v1.5A2.5 2.5 0 0 0 7 10h1m3.5-4v1.5A2.5 2.5 0 0 1 9 10H8m0 0v1.5m-3.5-9a1.75 1.75 0 1 0 0 3.5 1.75 1.75 0 0 0 0-3.5Zm7 0a1.75 1.75 0 1 0 0 3.5 1.75 1.75 0 0 0 0-3.5ZM8 11.5a1.75 1.75 0 1 0 0 3.5 1.75 1.75 0 0 0 0-3.5Z" fill="none" stroke="#bcb5a7" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="143" y="84" font-size="12" fill="#bcb5a7">0</text>
+  </g>
+</svg>

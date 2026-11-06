@@ -19,5 +19,6 @@ jobs:
         with:
           node-version: '24'
       - run: node --test
+      - run: node scripts/pinned-repositories.mjs --check
       - run: node --check docs/calendar.js
       - run: node scripts/build-pages.mjs
