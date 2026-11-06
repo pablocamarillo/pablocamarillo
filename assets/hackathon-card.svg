@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title description">
+  <title id="title">Adaptive Workcell Reconfiguration — collaborative hackathon project</title>
+  <desc id="description">Adaptive Workcell Reconfiguration. Collaborative Rockwell Automation and NVIDIA hackathon project by The A-Team, including Pablo Camarillo. Python primary language; 0 stars. Metadata refreshed 2026-11-06. Repository: ALL-Applied-AI-Network/msoe-ai-club-rockwell-automation-nvidia-hackath-new-team-1-10439770d3. Python, NVIDIA Isaac Sim, OpenCV, MediaPipe and Three.js.</desc>
+  <rect width="1200" height="380" fill="#0b0c0d"/>
+  <rect x="12" y="12" width="1176" height="356" rx="10" fill="#121311" stroke="#49402d"/>
+  <rect x="12" y="12" width="5" height="356" fill="#d9b974"/>
+  <text x="48" y="58" font-family="Consolas,monospace" font-size="18" fill="#d9b974">~/featured $ team_project</text>
+  <text x="48" y="127" font-family="Georgia,serif" font-size="48" fill="#f4eddf">Adaptive Workcell Reconfiguration</text>
+  <text x="48" y="169" font-family="Segoe UI,Arial,sans-serif" font-size="24" fill="#d9b974">Rockwell Automation + NVIDIA Hackathon · The A-Team</text>
+  <text x="48" y="219" font-family="Segoe UI,Arial,sans-serif" font-size="24" fill="#bcb5a7">A collaborative Physical AI prototype connecting human demonstrations,</text>
+  <text x="48" y="251" font-family="Segoe UI,Arial,sans-serif" font-size="24" fill="#bcb5a7">digital-twin validation, and supervised FANUC robot actions.</text>
+  <text x="48" y="295" font-family="Segoe UI,Arial,sans-serif" font-size="22" fill="#f4eddf">Python · NVIDIA Isaac Sim · OpenCV · MediaPipe · Three.js</text>
+  <text x="48" y="344" font-family="Consolas,monospace" font-size="18" fill="#d9b974">Python  ·  ★ 0 stars  ·  Metadata 2026-11-06</text>
+  <text x="826" y="344" font-family="Segoe UI,Arial,sans-serif" font-size="20" fill="#d9b974">Explore the team repository →</text>
+</svg>
