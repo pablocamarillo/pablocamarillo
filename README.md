@@ -44,10 +44,10 @@ This is activity context, not a proficiency or productivity score; GitHub’s na
 
 <picture>
   <source media="(max-width: 600px)" srcset="assets/technology-stack-mobile.svg">
-  <img src="assets/technology-stack.svg" alt="Tools in practice: Python, SQL, pandas, Matplotlib, Excel, and Git." width="1200">
+  <img src="assets/technology-stack.svg" alt="Tools in practice: Python, SQL, MySQL, pandas, Matplotlib, Excel, and Git." width="1200">
 </picture>
 
-**Technical focus:** Python · SQL · Excel · Pandas · Matplotlib · Data Analysis · Data Visualization.
+**Technical focus:** Python · SQL · MySQL · Excel · Pandas · Matplotlib · Data Analysis · Data Visualization.
 
 ![A subtle gold signal connects inspect, analyze, document and refine.](assets/workflow-signal.gif)
 
