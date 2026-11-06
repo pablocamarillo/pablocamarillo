@@ -1,13 +1,39 @@
 ![Pablo Camarillo — Data Analytics, Applied AI and Intelligent Systems. University of Wisconsin–Milwaukee student.](assets/living-code-v2-static.png)
 
+## Featured collaboration
+
+<a href="https://github.com/ALL-Applied-AI-Network/msoe-ai-club-rockwell-automation-nvidia-hackath-new-team-1-10439770d3">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/hackathon-card-mobile.svg">
+    <img src="assets/hackathon-card.svg" alt="Adaptive Workcell Reconfiguration — a collaborative Rockwell Automation + NVIDIA Hackathon project by The A-Team. Python, NVIDIA Isaac Sim, OpenCV, MediaPipe and Three.js. Open the original team repository." width="1200">
+  </picture>
+</a>
+
+**[Adaptive Workcell Reconfiguration](https://github.com/ALL-Applied-AI-Network/msoe-ai-club-rockwell-automation-nvidia-hackath-new-team-1-10439770d3)** — a collaborative Physical AI prototype connecting human demonstrations, digital-twin validation, and supervised FANUC robot actions. Built with **The A-Team** for the **MSOE AI Club Rockwell Automation + NVIDIA Hackathon**; I contributed as one of five team members.
+
+**Technologies:** Python · NVIDIA Isaac Sim · OpenCV · MediaPipe · Three.js. Repository stars and primary language are refreshed with the card; its snapshot date appears above.
+
+<details>
+<summary>Original repository &amp; team credits</summary>
+
+[ALL-Applied-AI-Network / msoe-ai-club-rockwell-automation-nvidia-hackath-new-team-1-10439770d3](https://github.com/ALL-Applied-AI-Network/msoe-ai-club-rockwell-automation-nvidia-hackath-new-team-1-10439770d3)
+
+The A-Team: Abdallah Benelmadjat (team lead), Pablo Camarillo, Benjamin Hess, Tar Meh, and Nathan Baker. [Project credits](https://github.com/ALL-Applied-AI-Network/msoe-ai-club-rockwell-automation-nvidia-hackath-new-team-1-10439770d3/blob/main/docs/credits.md).
+
+</details>
+
 ## GitHub contribution activity
 
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/contributions-mobile.svg">
-  <img src="assets/contributions.svg" alt="Actual GitHub contribution activity for pablocamarillo. The graphic includes its date range, total and snapshot date; daily counts are available in the linked data.">
-</picture>
+<a href="https://pablocamarillo.github.io/pablocamarillo/">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/contributions-mobile.svg">
+    <img src="assets/contributions.svg" alt="Actual GitHub contribution calendar for pablocamarillo, with five gold intensity levels, month and weekday labels, total contributions, date range and refresh date. Open the interactive calendar for daily dates and counts." width="1200">
+  </picture>
+</a>
 
-A custom gold rendering of my **publicly visible GitHub contribution calendar**. The date range and last refresh appear in the graphic. This is activity context, not a proficiency or productivity score; GitHub’s native graph remains the authoritative view.
+My **publicly visible GitHub contribution calendar**, using GitHub’s actual daily counts and activity intensity levels in Terminal Gold. The full-year snapshot is refreshed daily; its date range and last refresh appear in the graphic. **[Open the interactive calendar](https://pablocamarillo.github.io/pablocamarillo/)** for daily dates and counts by hover, keyboard, or tap.
+
+This is activity context, not a proficiency or productivity score; GitHub’s native graph remains the authoritative view.
 
 [Live GitHub profile](https://github.com/pablocamarillo?tab=overview) · [Daily snapshot data](data/contributions.json) · [Frozen fallback snapshot](assets/contributions-fallback.svg)
 
