@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <meta name="description" content="Pablo Camarillo’s real GitHub contribution calendar, rendered in Terminal Gold. Explore daily activity with accessible date and contribution tooltips.">
+  <title>Contribution activity · Pablo Camarillo</title>
+  <link rel="stylesheet" href="./calendar.css">
+  <script src="./calendar.js" defer></script>
+</head>
+<body>
+  <main>
+    <header class="page-header">
+      <p class="eyebrow">PABLO CAMARILLO <span aria-hidden="true">/</span> TERMINAL GOLD</p>
+      <a class="back-link" href="https://github.com/pablocamarillo">GitHub profile <span aria-hidden="true">↗</span></a>
+    </header>
+
+    <section class="intro" aria-labelledby="page-title">
+      <p class="command"><span aria-hidden="true">~/portfolio $ </span>git activity --year</p>
+      <h1 id="page-title">Contribution activity<span class="gold">.</span></h1>
+      <p class="intro-copy">A year of publicly visible GitHub activity, one day at a time.</p>
+    </section>
+
+    <section class="calendar-card" aria-labelledby="calendar-title">
+      <div class="card-heading">
+        <div>
+          <p class="eyebrow">THE CONTRIBUTION CALENDAR</p>
+          <h2 id="calendar-title">Loading GitHub activity…</h2>
+        </div>
+        <span class="snapshot-label">PUBLIC PROFILE SNAPSHOT</span>
+      </div>
+      <p id="range" class="date-range"></p>
+      <p id="status" class="status" role="status" aria-live="polite">Reading the latest saved contribution data.</p>
+
+      <div id="calendar-content" hidden>
+        <p id="calendar-help" class="calendar-help">Hover, focus, or tap a day for its date and contribution count. Use arrow keys to move between days.</p>
+        <p class="mobile-hint">Swipe the calendar to explore the full year.</p>
+        <div id="calendar-scroll" class="calendar-scroll" aria-label="Full-year contribution calendar">
+          <div class="calendar-canvas">
+            <div id="months" class="months" aria-hidden="true"></div>
+            <table id="calendar" role="grid" aria-label="Daily GitHub contributions" aria-describedby="calendar-help">
+              <tbody id="days"></tbody>
+            </table>
+          </div>
+        </div>
+        <div class="calendar-bottom">
+          <p class="calendar-note">Each square is a day. Gold follows GitHub’s activity levels.</p>
+          <div class="legend" aria-label="Contribution intensity: no contributions, then four increasing levels">
+            <span>Less</span>
+            <span class="swatch level-0" aria-hidden="true"></span>
+            <span class="swatch level-1" aria-hidden="true"></span>
+            <span class="swatch level-2" aria-hidden="true"></span>
+            <span class="swatch level-3" aria-hidden="true"></span>
+            <span class="swatch level-4" aria-hidden="true"></span>
+            <span>More</span>
+          </div>
+        </div>
+      </div>
+      <noscript><p class="status">Enable JavaScript to explore individual days, or <a href="./data/contributions.json">read the actual daily snapshot</a>.</p></noscript>
+    </section>
+
+    <footer class="page-footer">
+      <div>
+        <p id="updated">Automatically refreshed from GitHub’s public contribution calendar.</p>
+        <p>Activity is context, not a measure of proficiency or productivity.</p>
+      </div>
+      <nav aria-label="Contribution sources">
+        <a id="source-link" href="https://github.com/users/pablocamarillo/contributions">GitHub source <span aria-hidden="true">↗</span></a>
+        <a href="./data/contributions.json" download="pablocamarillo-contributions.json">Daily data <span aria-hidden="true">↓</span></a>
+      </nav>
+    </footer>
+  </main>
+  <div id="day-tooltip" class="tooltip" role="tooltip" hidden></div>
+</body>
+</html>
