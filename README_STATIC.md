@@ -40,7 +40,12 @@ This is activity context, not a proficiency or productivity score; GitHub’s na
 
 [Live GitHub profile](https://github.com/pablocamarillo?tab=overview) · [Daily snapshot data](data/contributions.json) · [Frozen fallback snapshot](assets/contributions-fallback.svg)
 
-![Tools in practice: Python, SQL, Pandas, Matplotlib, Excel and Git.](assets/technology-stack.svg)
+## Workflow Stack
+
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/technology-stack-mobile.svg">
+  <img src="assets/technology-stack.svg" alt="Tools in practice: Python, SQL, pandas, Matplotlib, Excel, and Git." width="1200">
+</picture>
 
 **Technical focus:** Python · SQL · Excel · Pandas · Matplotlib · Data Analysis · Data Visualization.
 
