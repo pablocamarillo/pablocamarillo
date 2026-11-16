@@ -3,48 +3,13 @@
   "source": "https://github.com/users/pablocamarillo/contributions",
   "source_type": "GitHub anonymous contribution calendar HTML",
   "scope": "Contributions visible on the public GitHub profile. Counts and intensity levels are supplied by GitHub.",
-  "as_of": "2026-11-14",
-  "fetched_at": "2026-11-14T22:35:03.517Z",
-  "source_sha256": "6472d0bf3e18887c393aed7fe031023c1bb02f49da5d820dd4ac8c8ea99321d3",
-  "from": "2025-11-09",
-  "to": "2026-11-14",
+  "as_of": "2026-11-16",
+  "fetched_at": "2026-11-16T06:48:58.242Z",
+  "source_sha256": "0aa4e4878ee8f9750367968f1ab0fcfe2f30f8f209669886488c20ccc2999648",
+  "from": "2025-11-16",
+  "to": "2026-11-16",
   "total": 48,
   "days": [
-    {
-      "date": "2025-11-09",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-10",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-11",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-12",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-13",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-14",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-15",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-11-16",
       "count": 0,
@@ -1862,6 +1827,16 @@
     },
     {
       "date": "2026-11-14",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2026-11-15",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2026-11-16",
       "count": 0,
       "level": 0
     }
