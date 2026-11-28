@@ -3,11 +3,11 @@
   "source": "https://github.com/users/pablocamarillo/contributions",
   "source_type": "GitHub anonymous contribution calendar HTML",
   "scope": "Contributions visible on the public GitHub profile. Counts and intensity levels are supplied by GitHub.",
-  "as_of": "2026-11-27",
-  "fetched_at": "2026-11-27T21:27:53.538Z",
-  "source_sha256": "3f932634f303e96833bd3fd833d8cae0b7643eaf390b853311121f6bdb5ba32d",
+  "as_of": "2026-11-28",
+  "fetched_at": "2026-11-28T08:04:20.277Z",
+  "source_sha256": "b9aed2ccbb444b9b399c417b390373b510b2cc7e2b12845d3f32bdc1f4fd6f81",
   "from": "2025-11-23",
-  "to": "2026-11-27",
+  "to": "2026-11-28",
   "total": 48,
   "days": [
     {
@@ -1857,6 +1857,11 @@
     },
     {
       "date": "2026-11-27",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2026-11-28",
       "count": 0,
       "level": 0
     }
